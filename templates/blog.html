@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title">{{ section.title }}</h1>
+<div id="blog-list">
+  <blockquote>
+    Find below a list of blogs which are not exactly blogs, those are just words from inner chaos crying for order and for meaning.
+  </blockquote>
+  {% for page in paginator.pages %}
+  <div id="blog-summary"> 
+    <h3><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h3>
+    {{ page.summary | safe }}
+    <a href="{{ page.permalink | safe }}">continue...</a>
+  </div>
+  {% endfor %}
+</div>
+<nav class="pagination">
+  {% if paginator.previous %}
+  <a class="previous" href="{{ paginator.previous }}">‹ Prev</a>
+  {% endif %}
+  {% if paginator.previous and paginator.next %}
+  |
+  {% endif %}
+  {% if paginator.next %}
+  <a class="next" href="{{ paginator.next }}">Next ›</a>
+  {% endif %}
+</nav>
+{% endblock content %}
