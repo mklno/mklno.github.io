@@ -3,12 +3,11 @@ base_url = "https://mklno.github.io/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
-
+author = "The Kafkaa"
 
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
 
-[extra]
-# Put all your custom variables here
+

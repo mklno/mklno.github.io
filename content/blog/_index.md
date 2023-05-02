@@ -1,5 +1,5 @@
 +++
-title = "List of blog posts"
+title = "List of blogs"
 sort_by = "date"
 template = "blog.html"
 generate_feed = true
