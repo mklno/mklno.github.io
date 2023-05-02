@@ -11,7 +11,7 @@ The mutilation of the savage has its tragic survival in the self denial that mar
 
 
 
-![Elliot quote](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.guide-irlande.com%2Fwp-content%2Fuploads%2F2013%2F12%2Foscar-wilde-1.jpg&f=1&nofb=1&ipt=6d20b8cb4009bb5004bc314a99154fbca1018fce217a88ed340d200979c8dfb7&ipo=images)
+![oscal wilde](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.guide-irlande.com%2Fwp-content%2Fuploads%2F2013%2F12%2Foscar-wilde-1.jpg&f=1&nofb=1&ipt=6d20b8cb4009bb5004bc314a99154fbca1018fce217a88ed340d200979c8dfb7&ipo=images)
 
 The passage you've presented is a thought-provoking and complex one, touching on themes of individuality, authenticity, and societal expectations. In this blog, we will delve deeper into what the author is saying and explore how their ideas can be applied in our own lives.
 
