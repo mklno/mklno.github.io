@@ -1,0 +1,181 @@
+/* CSS written by bugswriter, use freely */
+
+body {
+  max-width: 900px;
+  margin: auto;
+  background-color: #ffffff;
+  color: #000000;
+}
+.index-hr {
+  text-align: center;
+}
+p {
+  text-align: justify;
+}
+
+hr {
+  color: #000000;
+  margin-top: 10px;
+}
+
+/* .search-container {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+} */
+
+/* .search-results{
+    text-align: left;
+    padding: 5px;
+}
+
+.search-results li{
+    list-style: none;
+    border-bottom: 1px dotted black;
+    padding: 5px;
+}
+
+.search-results li:nth-child(even) {
+    background-color: #FAF9F6;
+} */
+
+pre {
+  font-family: "Hack";
+  padding: 1%;
+  border-radius: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #4831D4;
+}
+
+a:hover {
+  font-style: italic;
+}
+
+footer span {
+  text-align: center;
+  margin-top: 0.5em;
+}
+
+header {
+  text-align: center;
+}
+header h1 {
+  font-size: 300%;
+  color: #000000;
+}
+
+header nav a {
+  padding: 0.5em;
+}
+
+/* table {
+    border-collapse: collapse;
+    font-size: 0.9em;
+}
+
+table th{
+    background-color: purple;
+    color: white;
+}
+tr, th, td{
+    border: 1px solid black;
+    padding: 0.3em;
+} */
+
+header {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+header h1 {
+  font-family: "Kingthings Foundation";
+}
+
+article {
+  width: fit-content;
+  text-align: center;
+  padding: 0.5em;
+}
+
+ul {
+  text-align: left;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+aside {
+  /* position: absolute;
+    top: 0.5em;
+    right: 0.5em; */
+  /* width: fit-content; */
+  /* max-width: 350px; */
+  text-align: center;
+}
+aside blockquote {
+  font-size: 0.9em;
+}
+
+aside img {
+  padding: 0.1em;
+  border-radius: 20px;
+  vertical-align: top;
+  width: 45%;
+}
+
+#blog ul,
+#blog ol {
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+#blog img {
+  max-width: 600px;
+}
+
+p:has(> img) {
+  text-align: center;
+}
+
+.pagination {
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+  font-size: 110%;
+}
+
+@media (max-width: 1000px) {
+  body {
+    font-size: 80%;
+    padding: 3%;
+  }
+  #blog img {
+    max-width: 80%;
+  }
+}
+
+@media (max-width: 1600px) {
+  body {
+    font-size: 90%;
+    padding: 1%;
+  }
+  /* aside {
+        display: none;
+    } */
