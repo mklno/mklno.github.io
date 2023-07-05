@@ -8,4 +8,7 @@ page_template = "page.html"
 <img src="/images/gallery/3.jpg" attr="image" width=300px>
 <img src="/images/gallery/4.jpg" attr="image" width=300px>
 <img src="/images/gallery/5.jpg" attr="image" width=300px>
+<img src="/images/gallery/6.jpg" attr="image" width=300px>
+<img src="/images/gallery/7.jpg" attr="image" width=300px>
+<img src="/images/gallery/8.jpg" attr="image" width=300px>
 </p>
