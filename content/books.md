@@ -2,6 +2,9 @@
 title = "Book Log"
 page_template = "page.html"
 +++
+### 2023
+- *Solakkar Thotti (Tamil)* by S. Balamurugan
+- *Yaanai Doctor (Tamil)* by Jeyamohan
 ### 2022
 - *The Wind-Up Bird Chronicle* by Haruki Murakami
 - *Arumugam (Tamil)* by Imayam
