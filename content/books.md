@@ -2,35 +2,44 @@
 title = "Book Log"
 page_template = "page.html"
 +++
+
 ### 2023
-- *Solakkar Thotti (Tamil)* by S. Balamurugan
-- *Yaanai Doctor (Tamil)* by Jeyamohan
+
+- _Killing Commendatore_ by Haruki Murakami
+- _Yaanai Doctor (Tamil)_ by Jeyamohan
+- _Solakkar Thotti (Tamil)_ by S. Balamurugan
+
 ### 2022
-- *The Wind-Up Bird Chronicle* by Haruki Murakami
-- *Arumugam (Tamil)* by Imayam
-- *G. Nagarajan Aakangal (Tamil)* by G. Nagarajan
-- *Oru Puliyamarathin Kathai (Tamil)* by Sundara Ramaswamy
-- *Thirupurvighasadhir (Tamil)* by Aravin Appāturai
-- *The Pleasures of the Damned* by Charles Bukowski
-- *Zero Degree (Tamil)* by Charu Nivedita
-- *1Q84* by Haruki Murakami
-- *The Brothers Karamazov* by Fyodor Dostoevsky
+
+- _The Wind-Up Bird Chronicle_ by Haruki Murakami
+- _Arumugam (Tamil)_ by Imayam
+- _G. Nagarajan Aakangal (Tamil)_ by G. Nagarajan
+- _Oru Puliyamarathin Kathai (Tamil)_ by Sundara Ramaswamy
+- _Thirupurvighasadhir (Tamil)_ by Aravin Appāturai
+- _The Pleasures of the Damned_ by Charles Bukowski
+- _Zero Degree (Tamil)_ by Charu Nivedita
+- _1Q84_ by Haruki Murakami
+- _The Brothers Karamazov_ by Fyodor Dostoevsky
+
 ### 2021
-- *Deep Work: Rules for Focused Success in a Distracted World* by Cal Newport
-- *Poonachi Allathu Oru Vellattin Kathai (Tamil)* by Perumal Murugan
-- *Hippie* by Paulo Coelho
-- *The Stranger* by Albert Camus
-- *Veedilla Puthagangal (Tamil)* by S. Ramakrishnan
-- *The Gambler* by Fyodor Dostoevsky
-- *A Thousand Splendid Suns* by Khaled Hosseini
-- *White Nights* by Fyodor Dostoevsky
-- *Atomic Habits* by James Clear
-- *Man's Search for Meaning* by Viktor E. Frankl
-- *Post Office* by Charles Bukowski
-- *Kafka on the Shore* by Haruki Murakami
-- *Sputnik Sweetheart* by Haruki Murakami
-- *Norwegian Wood* by Haruki Murakami
-- *Eleven Minutes* by Paulo Coelho
-- *Men Without Women* by Haruki Murakami
+
+- _Deep Work: Rules for Focused Success in a Distracted World_ by Cal Newport
+- _Poonachi Allathu Oru Vellattin Kathai (Tamil)_ by Perumal Murugan
+- _Hippie_ by Paulo Coelho
+- _The Stranger_ by Albert Camus
+- _Veedilla Puthagangal (Tamil)_ by S. Ramakrishnan
+- _The Gambler_ by Fyodor Dostoevsky
+- _A Thousand Splendid Suns_ by Khaled Hosseini
+- _White Nights_ by Fyodor Dostoevsky
+- _Atomic Habits_ by James Clear
+- _Man's Search for Meaning_ by Viktor E. Frankl
+- _Post Office_ by Charles Bukowski
+- _Kafka on the Shore_ by Haruki Murakami
+- _Sputnik Sweetheart_ by Haruki Murakami
+- _Norwegian Wood_ by Haruki Murakami
+- _Eleven Minutes_ by Paulo Coelho
+- _Men Without Women_ by Haruki Murakami
+
 ### 2020
-- *Hard Luck* by Jeff Kinney
+
+- _Hard Luck_ by Jeff Kinney
