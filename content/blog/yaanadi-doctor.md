@@ -4,7 +4,7 @@ date = 2023-10-25
 +++
 
 <div style="text-align: center;">
-  <img src="/images/blogs/yaanai-doctor.jpg" alt="image" width="500px">
+  <img src="/images/blogs/yaanai-doctor.jpg" alt="image" width="300px">
 </div>
 
 Recently, during a visit to Panuval bookstore in Chennai, I came across a book by Jeyamohan, an author whose works I hadn't explored before. While I had never felt a particular fascination for Jeyamohan's writings, I decided to take a leap of faith and chose to delve into his world. I picked up two of his works, "Iravu" (Nights) and "Yaanai Doctor" (The Elephant Doctor).
