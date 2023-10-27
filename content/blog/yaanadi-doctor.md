@@ -4,14 +4,16 @@ date = 2023-10-25
 +++
 
 <div style="text-align: center;">
-  <img src="/images/blogs/yaanai-doctor.jpg" alt="image" width="300px">
+  <img src="/images/blogs/yaanai-doctor.jpg" alt="image" width="500px">
 </div>
 
 Recently, during a visit to Panuval bookstore in Chennai, I came across a book by Jeyamohan, an author whose works I hadn't explored before. While I had never felt a particular fascination for Jeyamohan's writings, I decided to take a leap of faith and chose to delve into his world. I picked up two of his works, "Iravu" (Nights) and "Yaanai Doctor" (The Elephant Doctor).
 
 <!-- more -->
 
-> 'டாக்டர் நம்ம பசங்க மாதிரி சபிக்கப்பட்ட தலைமொறை இந்தியாவிலே இருந்ததில்லை. அவங்க முன்னாடி இன்னிக்கு நிக்கிறதெல்லாமே வெறும் கட்டவுட்டு மனுஷங்க. லட்சியவாதமோ கனவொ இல்லாத போலி முகங்க. அவங்கள்லாம் ஜஸ்ட் ஜெயிச்சவங்க டாக்டர். திருடியோ மோசடி பண்ணியோ பணமும் புகழும் அதிகாரமும் அடைஞ்சவங்க. அவங்கள முன்னால பாத்துட்டு ஒரு தலைமுறையே ஓடி வந்திட்டிருக்கு. அந்த பசங்க முன்னாடி இந்தா இப்டி ஒரு ஐடியலிஸத்துக்கும் இன்னும் நம்ம சமூகத்திலே எடமிருக்குன்னு சொல்லலாம்னு நினைச்சேன். இன்னும் இங்க காந்தி வாழறதுக்கு ஒரு காலடி மண்ணிருக்குன்னு சொல்லலாம்னு நினைச்சேன். ஒரு பத்துபேரு கவனிச்சாக்கூட போருமே டாக்டர்'.
+<blockquote>
+'டாக்டர் நம்ம பசங்க மாதிரி சபிக்கப்பட்ட தலைமொறை இந்தியாவிலே இருந்ததில்லை. அவங்க முன்னாடி இன்னிக்கு நிக்கிறதெல்லாமே வெறும் கட்டவுட்டு மனுஷங்க. லட்சியவாதமோ கனவொ இல்லாத போலி முகங்க. அவங்கள்லாம் ஜஸ்ட் ஜெயிச்சவங்க டாக்டர். திருடியோ மோசடி பண்ணியோ பணமும் புகழும் அதிகாரமும் அடைஞ்சவங்க. அவங்கள முன்னால பாத்துட்டு ஒரு தலைமுறையே ஓடி வந்திட்டிருக்கு. அந்த பசங்க முன்னாடி இந்தா இப்டி ஒரு ஐடியலிஸத்துக்கும் இன்னும் நம்ம சமூகத்திலே எடமிருக்குன்னு சொல்லலாம்னு நினைச்சேன். இன்னும் இங்க காந்தி வாழறதுக்கு ஒரு காலடி மண்ணிருக்குன்னு சொல்லலாம்னு நினைச்சேன். ஒரு பத்துபேரு கவனிச்சாக்கூட போருமே டாக்டர்'.
+</blockquote>
 
 "Yaanai Doctor" is a novella that introduces us to Dr. V. Krishnamoorthy, who is affectionately known as Dr. K among the people residing in the vicinity. Dr. K is a dedicated professional working tirelessly for the well-being of both captive and wild elephants in Southern India. It's a story of passion, compassion, and the extraordinary bond between Dr. K and these magnificent creatures.
 

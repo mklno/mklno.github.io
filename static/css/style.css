@@ -174,8 +174,9 @@ p:has(> img) {
 @media (max-width: 1600px) {
   body {
     font-size: 90%;
-    padding: 1%;
+    padding: 5%;
   }
   /* aside {
         display: none;
     } */
+  }
