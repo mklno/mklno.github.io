@@ -7,7 +7,7 @@ date = 2023-09-09
   <img src="/images/blogs/killing-commendatore.jpg" alt="image" width="300px">
 </div>
 
-I still vividly recall the exhilaration and sense of accomplishment that coursed through me when I completed my very first book. It was the work of Haruki Murakami that guided me on this literary journey. Without him, I doubt I would have developed the reading habit. Everyone has an author who holds a special place in their heart; however, I'm not one to fawn over authors themselves, but rather the content they create. Yet, Murakami's influence on instilling this reading habit in me makes me feel indebted to him.
+I still vividly recall the exhilaration and sense of accomplishment that coursed through me when I completed my very first book. It was the work of Haruki Murakami that guided me on this literary journey. Without him, I doubt I would have developed the habit of reading. Everyone has an author who holds a special place in their heart; however, I'm not one to fawn over authors themselves, but rather the content they create. Yet, Murakami's influence on instilling this reading habit in me makes me feel indebted to him.
 
 <!-- more -->
 <blockquote>
